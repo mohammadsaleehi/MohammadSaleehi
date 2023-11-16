@@ -5,7 +5,7 @@ I'm a tenth-grade student passionate about mathematics based in Iran. My program
 من دانش آموز دهم در رشته ریاضی هستم،که یک ساله برنامه نویسی شروع کردم.کاملا مشتاقم برای کار در پروژه ها.
 
 #### 💼 Currently working on:
-- فروشگاه اینترنتی
+- [Eshop project django](https://github.com/MohammadSaleehi/Eshop_django)
 
 #### 🌱 I'm currently learning:
 - Python
