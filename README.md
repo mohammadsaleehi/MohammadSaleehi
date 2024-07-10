@@ -14,7 +14,6 @@ I'm a tenth-grade student passionate about mathematics based in Iran. My program
 - Unittest
 - HTTP
 - HTML
-- MySQL
 - Git
 
 
