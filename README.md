@@ -65,6 +65,16 @@ class Mohammad:
 
 ---
 
-📫 Get in touch
-📧 Email: Salehi00426@gmail.com
-💼 LinkedIn: Coming soon
+## 📫 Contant
+
+📧 **Email:** [Salehi00426@gmail.com](mailto:Salehi00426@gmail.com)
+ <br>
+💼 **LinkedIn:** Coming soon
+
+<br>
+
+<div align="center">
+
+<sub>Always learning · Always building</sub>
+
+</div>
