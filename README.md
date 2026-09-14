@@ -22,7 +22,7 @@ class Mohammad:
     mindset = "Learn by building"
 
     def build(self):
-        return "Something useful 🚀
+        return "Something useful"
 ```
 
 ---
