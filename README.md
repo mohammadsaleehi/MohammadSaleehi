@@ -1,32 +1,70 @@
-## Hi there, I'm Mohammad Salehi! 👋
+<div align="center">
 
-I'm a tenth-grade student passionate about mathematics based in Iran. My programming journey started one year ago, and I've been enthusiastically exploring various technologies and working on exciting projects.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Mohammad%20Salehi&fontSize=46&fontColor=ffffff&fontAlignY=42&desc=Python%20%2F%20Django%20Developer&descAlignY=62&descSize=18&animation=fadeIn&color=0:020617,50:0f172a,100:172554" width="100%"/>
 
-من دانش آموز دهم در رشته ریاضی هستم،که یک ساله برنامه نویسی شروع کردم.کاملا مشتاقم برای کار در پروژه ها.
+**I build backend systems, learn through real projects, and enjoy turning ideas into working software.**
 
-#### 💼 Currently working on:
-- [Eshop project django](https://github.com/MohammadSaleehi/Eshop_django)
+</div>
 
-#### 🌱 I'm currently learning:
-- Python
-- Django
-- Algorithms
-- Unittest
-- HTTP
-- HTML
-- Git
+---
 
+## About
 
-#### 🕺 I'm looking to collaborate on:
-- Projects related to web development and algorithms
+I'm **Mohammad**, a Python & Django developer focused on backend development.
 
-#### 📫 How to reach me:
-- Email: Salehi00426@gmail.com
-- LinkedIn:
+I enjoy building practical applications, understanding how systems work under the hood, and improving my code through real-world projects.
 
-Let's connect and code amazing things together!
+> **Build things. Break things. Understand them. Build better.**
 
-<!---
-MohammadSaleehi/MohammadSaleehi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```python
+class Mohammad:
+    focus = ["Python", "Django", "Backend"]
+    mindset = "Learn by building"
+
+    def build(self):
+        return "Something useful 🚀
+```
+
+---
+
+## Tech
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,linux,mysql,git,github&theme=dark" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+`Python` · `Django` · `Celery` · `Pytest` · `MySQL` · `Linux` · `Git`
+
+</div>
+
+---
+
+## Featured Project
+
+### Eshop Django
+
+<a href="https://github.com/MohammadSaleehi/Eshop_django">Eshop Django</a> — An e-commerce project built with Django.
+
+---
+
+## What I'm Working On
+
+```text
+01  ──  Building better Django applications
+02  ──  Improving backend architecture
+03  ──  Writing cleaner & testable code
+04  ──  Exploring Linux and deployment
+05  ──  Contributing to open source
+```
+
+---
+
+📫 Get in touch
+📧 Email: Salehi00426@gmail.com
+💼 LinkedIn: Coming soon
